@@ -1,0 +1,12 @@
+#gameTable div div{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.mole {
+    background-image: url("../img/Mole.png");
+    background-size: contain;
+}
